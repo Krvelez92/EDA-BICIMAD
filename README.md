@@ -35,7 +35,7 @@
 Antes de ejecutar este proyecto, asegúrate de tener instaladas las siguientes librerías de Python. Puedes instalarlas con `pip`.
 
 ### 🔧 Instalación
-
+```python
 - pip install pandas
 - pip install numpy
 - pip install json
