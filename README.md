@@ -29,3 +29,15 @@
 <a href="https://datos.madrid.es/sites/v/index.jsp?vgnextoid=695cd64d6f9b9610VgnVCM1000001d4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD" target="_blank">
   Ver datos
 </a></p>
+
+## 📦 Requisitos e instalación
+
+Antes de ejecutar este proyecto, asegúrate de tener instaladas las siguientes librerías de Python. Puedes instalarlas con `pip`.
+
+### 🔧 Instalación
+
+- pip install pandas
+- pip install numpy
+- pip install json
+- pip install xlrd
+
