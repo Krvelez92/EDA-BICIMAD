@@ -26,4 +26,6 @@
 </a></p>
 
 <p><strong>Aforos de peatones y bicicletas</strong><br>
-<a href="https://datos.madrid.es/sites/v/index.jsp?vgnextoid=695cd
+<a href="https://datos.madrid.es/sites/v/index.jsp?vgnextoid=695cd64d6f9b9610VgnVCM1000001d4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD" target="_blank">
+  Ver datos
+</a></p>
