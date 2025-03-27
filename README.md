@@ -1,4 +1,22 @@
-# EDA-BICIMAD
+# 🚲 Análisis Exploratorio de Datos (EDA) de BiciMAD
+Este proyecto realiza un Análisis Exploratorio de Datos (EDA) sobre el sistema de bicicletas públicas BiciMAD en Madrid, con el objetivo de validar hipótesis relacionadas con el uso y comportamiento del sistema.
+
+## 📌 Objetivo
+Validar, mediante análisis de datos, hipótesis sobre el uso de bicicletas, su localización y su relación con patrones de movilidad urbana en Madrid.
+
+## 🧪 Hipótesis
+📍 Las estaciones están ubicadas en sitios clave con alto aforo de personas.
+
+⏰ Existe buena disponibilidad de bicicletas en horas pico.
+
+🧳 Las bicicletas se usan para hacer turismo.
+
+📆 Las bicicletas se usan más los fines de semana que entre semana.
+
+## 📊 Dataset
+Se utilizan datos históricos de BiciMAD, incluyendo:
+
+### 📦 Enlaces Fuentes de Datos
 
 <p><strong>- Alta de usuarios y usos por día del servicio público de bicicleta eléctrica</strong><br>
 <a href="https://datos.madrid.es/sites/v/index.jsp?vgnextoid=6d8bdae2be63c410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD" target="_blank">
@@ -42,4 +60,24 @@ Antes de ejecutar este proyecto, asegúrate de tener instaladas las siguientes l
 - pip install xlrd
 - pip install datetime 
 - pip install os
+```
+### 📥 Lectura de Repositiorio
+```python
+git clone https://github.com/Krvelez92/EDA-BICIMAD.git
+cd EDA-BICIMAD
+```
+## 📂 Estructura del proyecto
+
+```python
+eda-bicimad/
+│
+├── src/data/          # Datos originales y preprocesados
+├── src/notebooks/     # Jupyter Notebooks de prueba
+├── images/            # Gráficos exportados y logos
+├── src/               # codigo 
+├── src/utils          # .py con funciones 
+├── src/memoria.ipynb  # Notebook de EDA
+└── README.md
+```
+
 
