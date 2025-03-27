@@ -40,4 +40,6 @@ Antes de ejecutar este proyecto, asegúrate de tener instaladas las siguientes l
 - pip install numpy
 - pip install json
 - pip install xlrd
+- pip install datetime 
+- pip install os
 
