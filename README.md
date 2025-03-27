@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="Logo_bicimad.png" alt="Bicimad" />
+</p>
+
+----------
+
+
 # 🚲 Análisis Exploratorio de Datos (EDA) de BiciMAD
 Este proyecto realiza un Análisis Exploratorio de Datos (EDA) sobre el sistema de bicicletas públicas BiciMAD en Madrid, con el objetivo de validar hipótesis relacionadas con el uso y comportamiento del sistema.
 
