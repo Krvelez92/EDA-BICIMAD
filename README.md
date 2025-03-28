@@ -55,6 +55,11 @@ Se utilizan datos históricos de BiciMAD, incluyendo:
   Ver datos
 </a></p>
 
+<p><strong>- Afluencia Turistas del 2022 en Madrid</strong><br>
+<a href="https://www.ine.es/jaxiT3/Tabla.htm?t=10823" target="_blank">
+  Ver datos
+</a></p>
+
 ## 📦 Requisitos e instalación
 
 Antes de ejecutar este proyecto, asegúrate de tener instaladas las siguientes librerías de Python. Puedes instalarlas con `pip`.
@@ -67,6 +72,10 @@ Antes de ejecutar este proyecto, asegúrate de tener instaladas las siguientes l
 - pip install xlrd
 - pip install datetime 
 - pip install os
+- pip isntall geopandas
+- pip isntall shapely
+- pip isntall pyproj
+- pip install pyogrio
 ```
 ### 📥 Lectura de Repositiorio
 ```python
