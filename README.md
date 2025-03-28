@@ -66,16 +66,16 @@ Antes de ejecutar este proyecto, asegúrate de tener instaladas las siguientes l
 
 ### 🔧 Instalación
 ```python
-- pip install pandas
-- pip install numpy
-- pip install json
-- pip install xlrd
-- pip install datetime 
-- pip install os
-- pip isntall geopandas
-- pip isntall shapely
-- pip isntall pyproj
-- pip install pyogrio
+pip install pandas
+pip install numpy
+pip install json
+pip install xlrd
+pip install datetime 
+pip install os
+pip isntall geopandas
+pip isntall shapely
+pip isntall pyproj
+pip install pyogrio
 ```
 ### 📥 Lectura de Repositiorio
 ```python
