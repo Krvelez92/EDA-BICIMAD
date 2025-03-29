@@ -89,7 +89,7 @@ eda-bicimad/
 │
 ├── src/data/          # Datos originales y preprocesados
 ├── src/notebooks/     # Jupyter Notebooks de prueba
-├── images/            # Gráficos exportados y logos
+├── imagene            # Gráficos exportados y logos
 ├── src/               # codigo 
 ├── src/utils          # .py con funciones 
 ├── src/memoria.ipynb  # Notebook de EDA
