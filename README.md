@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Logo_bicimad.png" alt="Bicimad" />
+  <img src="imagenes/Logo_bicimad.png" alt="Bicimad" />
 </p>
 
 ----------
