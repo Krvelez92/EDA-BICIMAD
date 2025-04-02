@@ -76,6 +76,11 @@ pip isntall geopandas
 pip isntall shapely
 pip isntall pyproj
 pip install pyogrio
+pip install shapely
+pip install seaborn
+pip install matplotlib
+pip install folium
+pip install plotly
 ```
 ### 📥 Lectura de Repositiorio
 ```python
@@ -88,10 +93,9 @@ cd EDA-BICIMAD
 eda-bicimad/
 │
 ├── src/data/          # Datos originales y preprocesados
-├── src/notebooks/     # Jupyter Notebooks de prueba
+├── src/notebooks/     # Jupyter Notebooks de prueba y utils
 ├── imagenes           # Gráficos exportados y logos
 ├── src/               # codigo 
-├── src/utils          # .py con funciones 
 ├── src/memoria.ipynb  # Notebook de EDA
 └── README.md
 ```
