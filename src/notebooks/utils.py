@@ -18,6 +18,7 @@ Resumen:
 - call_situacion_estaciones(directorio:str='./datos/Situacion de Estaciones')
 - call_uso_bicicletas(directorio:str='./datos/Datos usos')
 - limpiar_coordenadas(coord:str)
+- def percentile(n:int)
 - corregir_letras(texto:str)
 '''
 #----------------------------------------------------------------------------------------------------------------------------------
