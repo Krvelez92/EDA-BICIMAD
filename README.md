@@ -67,7 +67,6 @@ Es BiciMAD eficiente? En grandes razgos si:
 - Hay cierta desconexion entre la infraestructura y la demanda real.
 - El sistema puede cubrir incluso un uso peatonal masivo, pero con ajustes.
 - El turismo influye, pero no es el factor principal.
-- 
 
 
 ## 📦 Requisitos e instalación
