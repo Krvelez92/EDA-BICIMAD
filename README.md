@@ -9,7 +9,7 @@
 Este proyecto realiza un Análisis Exploratorio de Datos (EDA) sobre el sistema de bicicletas públicas BiciMAD en Madrid, con el objetivo de validar hipótesis relacionadas con el uso y comportamiento del sistema.
 
 ## 📌 Objetivo
-Validar, mediante análisis de datos, hipótesis sobre el uso de bicicletas, su localización y su relación con patrones de movilidad urbana en Madrid.
+Validar, mediante análisis de datos, hipótesis sobre el uso de bicicletas, su localización y su relación con patrones de movilidad urbana en Madrid.Ademas este proyecto es evaluar la utilidad y eficiencia del sistema de bicicletas públicas BiciMAD como alternativa de movilidad sostenible en la ciudad de Madrid.
 
 ## 🧪 Hipótesis
 📍 Las estaciones están ubicadas en sitios clave con alto aforo de personas.
@@ -59,6 +59,16 @@ Se utilizan datos históricos de BiciMAD, incluyendo:
 <a href="https://www.ine.es/jaxiT3/Tabla.htm?t=10823" target="_blank">
   Ver datos
 </a></p>
+
+## Conclusiones
+
+Es BiciMAD eficiente? En grandes razgos si:
+- Hay estaciones suficientes, pero no siempre suficientes bicicletas.
+- Hay cierta desconexion entre la infraestructura y la demanda real.
+- El sistema puede cubrir incluso un uso peatonal masivo, pero con ajustes.
+- El turismo influye, pero no es el factor principal.
+- 
+
 
 ## 📦 Requisitos e instalación
 
